@@ -8,7 +8,7 @@ Counting app.
 
 ### Links 
 
-Check this app [Link](https://domdzia.github.io/paper-stone-scissor/)
+Check this app [Link](https://domdzia.github.io/Calculator-app/)
 
 
 ### Built with 
